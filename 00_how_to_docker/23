@@ -1,0 +1,2 @@
+# depending on the previoius steps: eval "$(docker-machine env Char)"
+docker network create --driver overlay overmind
